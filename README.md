@@ -24,9 +24,11 @@ Desarrollador de software apasionado por crear soluciones innovadoras y eficient
 ### 📈 Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gabguezDev&show_icons=true&theme=radical)
 
+<!--
 ### 🌟 Proyectos destacados
 - [Proyecto 1](https://github.com/gabguezDev/Proyecto1): Breve descripción del proyecto 1.
 - [Proyecto 2](https://github.com/gabguezDev/Proyecto2): Breve descripción del proyecto 2.
 - [Proyecto 3](https://github.com/gabguezDev/Proyecto3): Breve descripción del proyecto 3.
+-->
 
 ¡Gracias por visitar mi perfil! 😊
