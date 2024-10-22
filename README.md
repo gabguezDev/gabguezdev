@@ -17,9 +17,7 @@ Desarrollador de software apasionado por crear soluciones innovadoras y eficient
 - Estrategias avanzadas de seguridad para aplicaciones web
 
 ### 📫 ¿Cómo contactarme?
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil) 
-- [Twitter](https://twitter.com/tu-perfil) 
-- [Correo electrónico](mailto:tu-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gabrielodominguez)
 
 ---
 
